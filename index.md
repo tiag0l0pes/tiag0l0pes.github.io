@@ -1,8 +1,8 @@
-  <span align="center">
-  
-  ![logo](https://s.gravatar.com/avatar/f685b37020d476c9802766b8934530f3?s=100)
-  
-  </span>
+<div style="text-align: center;">
+
+![logo](https://s.gravatar.com/avatar/f685b37020d476c9802766b8934530f3?s=100)
+
+</div>
 
 ---
 
