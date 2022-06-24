@@ -6,7 +6,13 @@
     alt="Tiago Lopes" />
 
 ---
-  
-Hello I'm Tiago and I'm a dotnet backend developer.
 
-This blog is my logbook and is the place where I share/keep my coding experiences.
+<br/>  
+Hello I'm Tiago, I'm a father, husband and a developer.
+
+This blog is my logbook and is the place where I share/keep my coding experiences.  
+<br/>
+
+---
+
+<br/>
