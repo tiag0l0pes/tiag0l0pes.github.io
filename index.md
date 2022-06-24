@@ -1,8 +1,10 @@
-<div style="text-align: center;">
-
-![logo](https://s.gravatar.com/avatar/f685b37020d476c9802766b8934530f3?s=100)
-
-</div>
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;"
+    src="https://s.gravatar.com/avatar/f685b37020d476c9802766b8934530f3?s=170" 
+    alt="Tiago Lopes">
+</img>
 
 ---
 
