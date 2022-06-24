@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hi I'm Tiago and I'm a dotnet backend developer.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This blog is my logbook and is the place where I share/keep my coding experiences.
